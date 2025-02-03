@@ -33,14 +33,14 @@ I'm a passionate **Full Stack Web Developer** with expertise in building scalabl
 
 ## 📊 GitHub Stats
 
-![Bipesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bipeshjunior&show_icons=true&theme=radical)
+![Bipesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bipesh369&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bipeshjunior&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bipesh369&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ## 📫 Connect with Me
-- **GitHub**: [bipeshjunior](https://github.com/bipeshjunior)
-- **LinkedIn**: [Your LinkedIn Profile](#) *(Add your LinkedIn URL here)*
+- **GitHub**: [bipeshjunior](https://github.com/bipesh369)
+
 
 Let's collaborate and build something amazing together! 🚀
