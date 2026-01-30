@@ -1,4 +1,4 @@
-# Bipesh | Full-Stack MERN Developer
+# Full-Stack MERN Developer
 
 I’m a Full-Stack Web Developer focused on building clean, scalable web applications using the MERN stack.
 
