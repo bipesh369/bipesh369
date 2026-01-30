@@ -28,7 +28,6 @@ Tech: React, REST APIs
 A complete MERN app with authentication and deployment
 
 ## Goals
-- Contribute to open-source projects
 - Build production-ready MERN applications
 - Join a team as a Full-Stack Developer
 
