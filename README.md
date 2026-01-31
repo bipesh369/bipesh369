@@ -4,12 +4,29 @@ I’m a Full-Stack Web Developer focused on building clean, scalable web applica
 
 I enjoy turning ideas into real products, writing maintainable code, and continuously improving my skills through hands-on projects.
 
-## Tech Stack
-- Frontend: React, JavaScript (ES6+), HTML, CSS
-- Backend: Node.js, Express.js
-- Database: MongoDB
-- Tools: Git, GitHub, REST APIs
-- Extra: C, C++ and DSA 
+## Technical Skills
+
+**Frontend**
+- React.js
+- JavaScript (ES6+)
+- HTML5, CSS3
+- Tailwind CSS, Bootstrap
+
+**Backend**
+- Node.js
+- Express.js
+- RESTful API development
+
+**Programming Languages**
+- JavaScript
+- C
+- C++
+
+**Tools & Practices**
+- Git, GitHub
+- API integration and environment configuration
+- Debugging and error handling
+- Basic DevOps concepts
 
 ## What I’m Working On
 - Building full-stack MERN applications
@@ -25,11 +42,25 @@ Tech: React, Node.js, Express, MongoDB
 Displays country data with real-time weather integration  
 Tech: React, REST APIs
 
-🔹 **[Add one strong MERN project here]**
-A complete MERN app with authentication and deployment
+## Currently Improving
 
-## Goals
-- Build production-ready MERN applications
-- Join a team as a Full-Stack Developer
+- Advanced React patterns and best practices
+- Backend architecture and API design
+- Writing production-ready, scalable code
+- Strengthening problem-solving skills
+---
 
-📫 Reach me via GitHub or LinkedIn
+## GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bipesh369&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bipesh369&layout=compact&theme=radical)
+
+---
+
+## Contact
+
+- GitHub: https://github.com/bipesh369
+
+Open to internships, junior developer roles, and collaborative projects.  
+I value learning, ownership, and building software that lasts.
