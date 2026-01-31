@@ -9,6 +9,7 @@ I enjoy turning ideas into real products, writing maintainable code, and continu
 - Backend: Node.js, Express.js
 - Database: MongoDB
 - Tools: Git, GitHub, REST APIs
+- Extra: C, C++ and DSA 
 
 ## What I’m Working On
 - Building full-stack MERN applications
