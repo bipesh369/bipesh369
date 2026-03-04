@@ -10,7 +10,7 @@ I enjoy turning ideas into real products, writing maintainable code, and continu
 - React.js
 - JavaScript (ES6+)
 - HTML5, CSS3
-- Tailwind CSS, Bootstrap
+- Tailwind CSS
 
 **Backend**
 - Node.js
@@ -27,28 +27,6 @@ I enjoy turning ideas into real products, writing maintainable code, and continu
 - API integration and environment configuration
 - Debugging and error handling
 - Basic DevOps concepts
-
-## What I’m Working On
-- Building full-stack MERN applications
-- Improving backend architecture and API design
-- Learning best practices for clean code and deployment
-
-## Featured Projects
-🔹 **Phonebook App (Full Stack)**
-A CRUD application with error handling and notifications  
-Tech: React, Node.js, Express, MongoDB
-
-🔹 **Countries Data App**
-Displays country data with real-time weather integration  
-Tech: React, REST APIs
-
-## Currently Improving
-
-- Advanced React patterns and best practices
-- Backend architecture and API design
-- Writing production-ready, scalable code
-- Strengthening problem-solving skills
----
 
 ## GitHub Activity
 
