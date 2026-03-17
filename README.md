@@ -1,22 +1,19 @@
-# Bipesh — Full-Stack Developer (MERN)
+# Bipesh — Frontend Engineer
 
-> Building scalable web applications with clean, maintainable code. Open to **junior developer roles** and **internships**.
+> Crafting responsive, user-focused interfaces with React and modern CSS. Open to **frontend roles** and **internships**.
 
 ---
 
 ## Tech Stack
 
-**Frontend**
+**Core**
 `React.js` `JavaScript (ES6+)` `HTML5` `CSS3` `Tailwind CSS`
 
-**Backend**
-`Node.js` `Express.js` `RESTful APIs`
-
-**Languages**
-`JavaScript` `C` `C++`
+**Supporting**
+`Node.js` `Express.js` `RESTful API Integration`
 
 **Tools**
-`Git` `GitHub` `API Integration` `Environment Configuration`
+`Git` `GitHub` `Environment Configuration` `Debugging`
 
 ---
 
@@ -29,17 +26,18 @@
 
 ## What I Bring
 
-- End-to-end MERN stack ownership — from UI to REST API to database
-- Focus on code readability, reusability, and long-term maintainability
-- Comfortable with debugging, error handling, and shipping working software
-- Fast learner who takes ownership and contributes from day one
+- Component-driven UI development with React — reusable, scalable, maintainable
+- Pixel-accurate layouts using Tailwind CSS and modern CSS3
+- Solid understanding of JavaScript (ES6+) — async handling, state management, DOM
+- Comfortable consuming REST APIs and integrating backend data into the UI
+- Backend familiarity (Node/Express) — enough to collaborate effectively with backend teams
 
 ---
 
 ## Contact
 
 - **GitHub:** [github.com/bipesh369](https://github.com/bipesh369)
-- **Open to:** Junior Developer · Frontend Engineer · Full-Stack Intern
+- **Open to:** Frontend Engineer · React Developer · UI Engineer · Frontend Intern
 
 ---
 
