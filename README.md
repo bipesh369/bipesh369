@@ -1,44 +1,46 @@
-# Full-Stack MERN Developer
+# Bipesh — Full-Stack Developer (MERN)
 
-I’m a Full-Stack Web Developer focused on building clean, scalable web applications using the MERN stack.
+> Building scalable web applications with clean, maintainable code. Open to **junior developer roles** and **internships**.
 
-I enjoy turning ideas into real products, writing maintainable code, and continuously improving my skills through hands-on projects.
+---
 
-## Technical Skills
+## Tech Stack
 
 **Frontend**
-- React.js
-- JavaScript (ES6+)
-- HTML5, CSS3
-- Tailwind CSS
+`React.js` `JavaScript (ES6+)` `HTML5` `CSS3` `Tailwind CSS`
 
 **Backend**
-- Node.js
-- Express.js
-- RESTful API development
+`Node.js` `Express.js` `RESTful APIs`
 
-**Programming Languages**
-- JavaScript
-- C
-- C++
+**Languages**
+`JavaScript` `C` `C++`
 
-**Tools & Practices**
-- Git, GitHub
-- API integration and environment configuration
-- Debugging and error handling
-- Basic DevOps concepts
+**Tools**
+`Git` `GitHub` `API Integration` `Environment Configuration`
+
+---
 
 ## GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bipesh369&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bipesh369&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bipesh369&layout=compact&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bipesh369&layout=compact&theme=radical)
+---
+
+## What I Bring
+
+- End-to-end MERN stack ownership — from UI to REST API to database
+- Focus on code readability, reusability, and long-term maintainability
+- Comfortable with debugging, error handling, and shipping working software
+- Fast learner who takes ownership and contributes from day one
 
 ---
 
 ## Contact
 
-- GitHub: https://github.com/bipesh369
+- **GitHub:** [github.com/bipesh369](https://github.com/bipesh369)
+- **Open to:** Junior Developer · Frontend Engineer · Full-Stack Intern
 
-Open to internships, junior developer roles, and collaborative projects.  
-I value learning, ownership, and building software that lasts.
+---
+
+*Available for internships, junior roles, and collaborative open-source projects.*
