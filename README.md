@@ -1,4 +1,4 @@
-# Bipesh — Frontend Engineer
+# Bipesh — Frontend Developer
 
 > Crafting responsive, user-focused interfaces with React and modern CSS. Open to **frontend roles** and **internships**.
 
