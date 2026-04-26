@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Bipesh 👋</h1>
+<h1 align="center">Hi, I'm Bipesh Junior👋</h1>
 
 <p align="center">
   Frontend developer crafting responsive, user-focused interfaces with React and modern CSS.<br/>
@@ -28,26 +28,10 @@
 
 ## 🚀 Projects
 
-### [Project Name](https://github.com/bipesh369/project-link)
-> Short 1–2 sentence description of what this project does and what problem it solves. Focus on the outcome, not just the features.
+### [ManMaya Hospitality](https://github.com/bipesh369/https://manmayahospitality.com/)
+> Tour and hospitality management system for seamless trip planning.
 
-**Tech:** `React` `Tailwind CSS` `REST API`
-&nbsp;·&nbsp; [Live Demo](https://your-live-link.com) &nbsp;·&nbsp; [Source](https://github.com/bipesh369/project-link)
-
----
-
-### [Project Name](https://github.com/bipesh369/project-link)
-> Short 1–2 sentence description of what this project does and what problem it solves. Focus on the outcome, not just the features.
-
-**Tech:** `Next.js` `TypeScript` `Vite`
-&nbsp;·&nbsp; [Live Demo](https://your-live-link.com) &nbsp;·&nbsp; [Source](https://github.com/bipesh369/project-link)
-
----
-
-### [Project Name](https://github.com/bipesh369/project-link)
-> Short 1–2 sentence description of what this project does and what problem it solves. Focus on the outcome, not just the features.
-
-**Tech:** `React` `JavaScript` `CSS3`
+**Tech:** `React.js` `Typescript` `Tailwind CSS` `REST API` `Node.js` `Express.js` `MongoDB`
 &nbsp;·&nbsp; [Live Demo](https://your-live-link.com) &nbsp;·&nbsp; [Source](https://github.com/bipesh369/project-link)
 
 ---
@@ -78,11 +62,11 @@
     <img src="https://img.shields.io/badge/GitHub-bipesh369-181717?style=flat-square&logo=github" />
   </a>
   &nbsp;
-  <a href="mailto:your@email.com">
+  <a href="mailto:juniorbipesh@email.com">
     <img src="https://img.shields.io/badge/Email-your@email.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/yourhandle">
+  <a href="https://linkedin.com/in/bipeshjunior">
     <img src="https://img.shields.io/badge/LinkedIn-yourhandle-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -95,4 +79,4 @@
 
 ---
 
-*Available for internships, junior roles, and collaborative open-source projects.*
+*Available for internships, junior roles, and collaborative work.*
