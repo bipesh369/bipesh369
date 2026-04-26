@@ -58,16 +58,16 @@
 ## 📬 Contact
 
 <p>
-  <a href="https://github.com/bipesh369">
+  <a href="https://github.com/bipesh369" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-bipesh369-181717?style=flat-square&logo=github" />
   </a>
   &nbsp;
-  <a href="mailto:juniorbipesh@email.com">
-    <img src="https://img.shields.io/badge/Email-your@email.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="mailto:juniorbipesh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-juniorbipesh@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/bipeshjunior">
-    <img src="https://img.shields.io/badge/LinkedIn-yourhandle-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/bipeshjunior10" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-bipeshjunior10-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
