@@ -5,12 +5,6 @@
   Open to <strong>frontend roles</strong> and <strong>internships</strong>.
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Location-Nepal-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Frontend%20%2F%20React-orange?style=flat-square" />
-</p>
-
 ---
 
 ## 🛠 Tech Stack
