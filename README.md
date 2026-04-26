@@ -6,14 +6,14 @@
 
 ## Tech Stack
 
-**Core**
-`React.js` `JavaScript (ES6+)` `HTML5` `CSS3` `Tailwind CSS`
+**Core Technologies**
+`HTML5` `CSS3` `JavaScript (ES6+)` `TypeScript`
 
-**Supporting**
-`Node.js` `Express.js` `RESTful API Integration`
+**Frontend Stack**
+`Tailwind CSS` `React.js` `Next.js`
 
-**Tools**
-`Git` `GitHub` `Environment Configuration` `Debugging`
+**Tools & Workflow**
+`Vite` `Git` `GitHub`
 
 ---
 
