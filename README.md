@@ -28,11 +28,17 @@
 
 ## 🚀 Projects
 
-### [ManMaya Hospitality](https://github.com/bipesh369/https://manmayahospitality.com/)
+### [ManMaya Hospitality](https://github.com/bipesh369/https:/project-link/)
 > Tour and hospitality management system for seamless trip planning.
 
 **Tech:** `React.js` `Typescript` `Tailwind CSS` `REST API` `Node.js` `Express.js` `MongoDB`
-&nbsp;·&nbsp; [Live Demo](https://your-live-link.com) &nbsp;·&nbsp; [Source](https://github.com/bipesh369/project-link)
+&nbsp;·&nbsp; [Live Demo](https://manmayahospitality.com/) &nbsp;·&nbsp; [Source](https://github.com/bipesh369/project-link)
+
+### [Personal Portfolio](https://github.com/bipesh369/https:/project-link/)
+> A modern portfolio showcasing scalable frontend systems, responsive layouts, and high-performance web applications built with React and Tailwind CSS.
+
+**Tech:** `React.js` `Tailwind CSS` 
+&nbsp;·&nbsp; [Live Demo](https://www.bipeshjunior.com.np/)) &nbsp;·&nbsp; [Source](https://github.com/bipesh369/bipesh-portfolio)
 
 ---
 
