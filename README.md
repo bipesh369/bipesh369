@@ -32,11 +32,11 @@
 
 ## 🚀 Projects
 
-### [ManMaya Hospitality](https://github.com/bipesh369/https:/project-link/)
-> Tour and hospitality management system for seamless trip planning.
+### [Agency.Ai](https://github.com/bipesh369/https:/project-link/)
+> A modern AI-powered digital agency platform designed to help businesses build, grow, and transform their digital presence with innovative technology and creative solutions.
 
-**Tech:** `React.js` `Typescript` `Tailwind CSS` `REST API` `Node.js` `Express.js` `MongoDB`
-&nbsp;·&nbsp; [Live Demo](https://manmayahospitality.com/) &nbsp;·&nbsp; [Source](https://github.com/bipesh369/project-link)
+**Tech:** `React.js` `Tailwind CSS` `REST API` `frame motion`
+&nbsp;·&nbsp; [Live Demo](https://agency-ai-five-coral.vercel.app/) &nbsp;·&nbsp; [Source](https://github.com/bipesh369/agency.ai)
 
 ### [Personal Portfolio](https://github.com/bipesh369/https:/project-link/)
 > A modern portfolio showcasing scalable frontend systems, responsive layouts, and high-performance web applications built with React and Tailwind CSS.
