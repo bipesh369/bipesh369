@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Bipesh Junior Tharu — Frontend Developer" width="100%"/>
+  <img src="./banner.svg" alt="Bipesh Junior Tharu — Frontend Developer" width="100%"/>
 </p>
 
 <h1 align="center">Hi, I'm Bipesh Junior👋</h1>
