@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.svg" alt="Bipesh Junior Tharu — Frontend Developer" width="100%"/>
+</p>
+
 <h1 align="center">Hi, I'm Bipesh Junior👋</h1>
 <p align="center">
   Frontend developer crafting responsive, user-focused interfaces with React and modern CSS.<br/>
