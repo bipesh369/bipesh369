@@ -1,0 +1,73 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0A0E17"/>
+      <stop offset="100%" stop-color="#0D1220"/>
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#5EEAD4"/>
+      <stop offset="55%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#A78BFA"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#A78BFA"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="78%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#2563EB" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#2563EB" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="1.4" cy="1.4" r="1.4" fill="#1E2636"/>
+    </pattern>
+    <clipPath id="windowClip">
+      <rect x="0" y="28" width="560" height="212" rx="10"/>
+    </clipPath>
+  </defs>
+
+  <!-- background -->
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#glow)"/>
+  <rect x="0" y="0" width="430" height="300" fill="url(#dots)" opacity="0.5"/>
+
+  <!-- left content -->
+  <g font-family="'Segoe UI', Arial, sans-serif">
+    <text x="56" y="112" font-size="42" font-weight="800" fill="#F5F7FA" letter-spacing="0.5">Bipesh Junior Tharu</text>
+    <rect x="58" y="130" width="230" height="4" rx="2" fill="url(#lineGrad)"/>
+
+    <text x="56" y="168" font-size="19" font-weight="600" fill="#9CA9BF">Frontend Developer</text>
+    <circle cx="270" cy="163" r="2.5" fill="#3A4560"/>
+    <text x="284" y="168" font-size="19" font-weight="600" fill="#5EEAD4">React.js</text>
+    <circle cx="378" cy="163" r="2.5" fill="#3A4560"/>
+    <text x="392" y="168" font-size="19" font-weight="600" fill="#38BDF8">Next.js</text>
+
+    <text x="56" y="204" font-size="15.5" fill="#7A8698">Building fast, responsive interfaces —</text>
+    <text x="56" y="228" font-size="15.5" fill="#7A8698">from landing pages to complete web apps.</text>
+
+    <g transform="translate(56,250)">
+      <rect x="0" y="0" width="150" height="30" rx="15" fill="#0E2B22" stroke="#1F5C48"/>
+      <circle cx="16" cy="15" r="4" fill="#34D399"/>
+      <text x="28" y="20" font-size="13" font-weight="700" fill="#6EE7B7">OPEN TO INTERNSHIPS</text>
+    </g>
+  </g>
+
+  <!-- code editor window -->
+  <g transform="translate(600,0)">
+    <rect x="0" y="28" width="560" height="212" rx="10" fill="#0F1522" stroke="#232B3D"/>
+    <rect x="0" y="28" width="560" height="30" rx="10" fill="#151C2C"/>
+    <rect x="0" y="48" width="560" height="10" fill="#151C2C"/>
+    <circle cx="20" cy="43" r="5" fill="#FF5F57"/>
+    <circle cx="38" cy="43" r="5" fill="#FEBC2E"/>
+    <circle cx="56" cy="43" r="5" fill="#28C840"/>
+    <text x="280" y="47" font-size="12" fill="#5B6479" text-anchor="middle" font-family="Consolas, monospace">profile.ts</text>
+
+    <g clip-path="url(#windowClip)" font-family="Consolas, 'Courier New', monospace" font-size="15">
+      <text x="24" y="92"><tspan fill="#7A8698">1</tspan><tspan dx="18" fill="#C792EA">const</tspan><tspan fill="#82AAFF"> developer</tspan><tspan fill="#89DDFF"> = {</tspan></text>
+      <text x="24" y="118"><tspan fill="#7A8698">2</tspan><tspan dx="18" fill="#F07178">  name</tspan><tspan fill="#89DDFF">: </tspan><tspan fill="#C3E88D">"Bipesh Junior Tharu"</tspan><tspan fill="#89DDFF">,</tspan></text>
+      <text x="24" y="144"><tspan fill="#7A8698">3</tspan><tspan dx="18" fill="#F07178">  role</tspan><tspan fill="#89DDFF">: </tspan><tspan fill="#C3E88D">"Frontend Developer"</tspan><tspan fill="#89DDFF">,</tspan></text>
+      <text x="24" y="170"><tspan fill="#7A8698">4</tspan><tspan dx="18" fill="#F07178">  stack</tspan><tspan fill="#89DDFF">: [</tspan><tspan fill="#C3E88D">"React"</tspan><tspan fill="#89DDFF">, </tspan><tspan fill="#C3E88D">"Next.js"</tspan><tspan fill="#89DDFF">, </tspan><tspan fill="#C3E88D">"TS"</tspan><tspan fill="#89DDFF">],</tspan></text>
+      <text x="24" y="196"><tspan fill="#7A8698">5</tspan><tspan dx="18" fill="#F07178">  status</tspan><tspan fill="#89DDFF">: </tspan><tspan fill="#C3E88D">"open_to_internships"</tspan></text>
+      <text x="24" y="222"><tspan fill="#7A8698">6</tspan><tspan dx="18" fill="#89DDFF">};</tspan></text>
+    </g>
+  </g>
+</svg>
