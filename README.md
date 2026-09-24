@@ -41,11 +41,11 @@
 **Tech:** `React.js` `Tailwind CSS` `REST API` `Framer Motion`
 &nbsp;·&nbsp; [Live Demo](https://agency-ai-five-coral.vercel.app/) &nbsp;·&nbsp; [Source](https://github.com/bipesh369/agency.ai)
 
-### [Personal Portfolio](https://github.com/bipesh369/bipesh-portfolio)
-> A modern portfolio showcasing scalable frontend systems, responsive layouts, and high-performance web applications built with React and Tailwind CSS.
+### [SewaPath](https://github.com/bipesh369/SewaPath)
+> A citizen-focused platform that makes government services in Nepal easier to discover, understand, and navigate through service discovery, eligibility checking, document requirements, and step-by-step guidance.
 
-**Tech:** `React.js` `Tailwind CSS`
-&nbsp;·&nbsp; [Live Demo](https://www.bipeshjunior.com.np/) &nbsp;·&nbsp; [Source](https://github.com/bipesh369/bipesh-portfolio)
+**Tech:** `React.js` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `Tailwind CSS` `Leaflet`
+&nbsp;·&nbsp; [Live Demo](https://sewapath-frontend.vercel.app/) &nbsp;·&nbsp; [Source](https://github.com/bipesh369/SewaPath)
 
 ---
 
