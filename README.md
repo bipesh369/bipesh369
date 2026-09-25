@@ -1,16 +1,15 @@
 <p align="center">
-  <img src="./banner.svg" alt="Bipesh Junior Tharu — Frontend Developer" width="100%" />
+  <img src="./banner.svg" alt="Bipesh Junior Tharu - Frontend Developer" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Bipesh Junior</h1>
+<h1 align="center">Hi, I'm Bipesh Junior 👋</h1>
 
 <p align="center">
-  <strong>Frontend Developer | React | JavaScript | MERN</strong>
+  <strong>Frontend Developer | React | JavaScript | TypeScript | MERN</strong>
 </p>
 
 <p align="center">
-   I build clean, responsive, and practical web applications with React and modern JavaScript.
-  I also enjoy working across the stack and building useful products with the MERN stack.
+  I build responsive web applications with React and modern JavaScript, with hands-on experience developing full-stack applications using the MERN stack.
 </p>
 
 <p align="center">
@@ -29,19 +28,11 @@
 
 ## About Me
 
-I'm a frontend developer focused on building **clean, responsive, and practical web experiences**.
+I'm a frontend developer focused on building **responsive, accessible, and practical web applications**.
 
-My primary focus is **React and modern JavaScript**, while also developing full-stack applications with the **MERN stack**. I enjoy turning ideas into functional products and improving my skills through hands-on projects.
+My primary focus is **React and modern JavaScript**, with experience building full-stack applications using **Node.js, Express.js, MongoDB, and REST APIs**.
 
-```text
-Frontend    → React, JavaScript, TypeScript, HTML5, CSS3
-Styling     → Tailwind CSS, Responsive Design
-Backend     → Node.js, Express.js, REST APIs
-Database    → MongoDB, Mongoose
-Tools       → Git, GitHub, Vite
-```
-
-I'm currently looking for **frontend internships and junior React opportunities** where I can contribute to real products, work with experienced developers, and continue growing through hands-on engineering.
+I enjoy turning ideas into functional products, learning through hands-on development, and continuously improving my frontend engineering skills.
 
 ---
 
@@ -51,30 +42,31 @@ I'm currently looking for **frontend internships and junior React opportunities*
 
 **Citizen-focused government service navigator for Nepal**
 
-SewaPath is a full-stack web application designed to make government services **easier to discover and navigate**.
+SewaPath is a full-stack MERN application designed to make government services easier to discover and navigate through a centralized, responsive platform.
 
-It brings service information, categories, authentication, and location-based features together in one responsive platform.
+The application combines service discovery, authentication, categorization, and location-based functionality to provide citizens with a simpler way to find relevant government services.
 
-**Built with:**
+**Tech Stack**
 
-`React.js` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `Tailwind CSS` `Leaflet`
+`React` `JavaScript` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `Leaflet`
 
-**Highlights**
+**Key Features**
 
-* Responsive, mobile-first React frontend
-* REST API architecture with Node.js and Express.js
-* MongoDB data management with Mongoose
+* Responsive, mobile-first React interface
+* Government service discovery and categorization
+* RESTful backend built with Node.js and Express.js
+* MongoDB data modeling with Mongoose
 * JWT-based authentication
-* Government service discovery by category
-* Interactive location-based features with Leaflet
+* Location-based features using Leaflet
+* Frontend and backend integration
 * Full-stack MERN architecture
 
 <p>
   <a href="https://sewapath-frontend.vercel.app/">
-    <img src="https://img.shields.io/badge/Live_Demo-Visit_Project-2563EB?style=for-the-badge" alt="SewaPath Live Demo" />
+    <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="SewaPath Live Demo" />
   </a>
   <a href="https://github.com/bipesh369/SewaPath">
-    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="SewaPath Source Code" />
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="SewaPath Source Code" />
   </a>
 </p>
 
@@ -84,30 +76,30 @@ It brings service information, categories, authentication, and location-based fe
 
 **Modern AI-focused digital agency interface**
 
-Agency.Ai is a polished frontend project focused on **responsive layouts, reusable React components, modern UI patterns, and interactive motion**.
+Agency.Ai is a React-based frontend project focused on creating a modern, responsive digital agency experience through reusable components, structured layouts, and interactive motion.
 
-The project explores how thoughtful animations and component-based architecture can create a more engaging web experience while keeping the interface responsive.
+The project demonstrates my ability to translate a visual concept into a responsive interface while maintaining reusable component structure and smooth user interactions.
 
-**Built with:**
+**Tech Stack**
 
 `React` `Tailwind CSS` `Framer Motion`
 
-**Highlights**
+**Key Features**
 
 * Component-based React architecture
 * Reusable UI sections and components
 * Responsive layouts across screen sizes
-* Tailwind CSS styling
-* Smooth animations with Framer Motion
-* Interactive UI transitions
-* Modern landing-page experience
+* Tailwind CSS utility-based styling
+* Framer Motion animations and transitions
+* Interactive interface elements
+* Modern landing-page design
 
 <p>
   <a href="https://agency-ai-five-coral.vercel.app/">
-    <img src="https://img.shields.io/badge/Live_Demo-Visit_Project-2563EB?style=for-the-badge" alt="Agency.Ai Live Demo" />
+    <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Agency.Ai Live Demo" />
   </a>
   <a href="https://github.com/bipesh369/agency.ai">
-    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Agency.Ai Source Code" />
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Agency.Ai Source Code" />
   </a>
 </p>
 
@@ -118,68 +110,53 @@ The project explores how thoughtful animations and component-based architecture 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind" height="45" alt="Frontend technologies" />
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind" height="45" alt="React, JavaScript, TypeScript, HTML5, CSS3 and Tailwind CSS" />
 </p>
 
 ### Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="45" alt="Backend and database technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="45" alt="Node.js, Express.js and MongoDB" />
 </p>
 
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vite,vscode" height="45" alt="Development tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vite,vscode" height="45" alt="Git, GitHub, Vite and Visual Studio Code" />
 </p>
 
 ---
 
-## What I Bring
+## GitHub Activity
 
-### Frontend Development
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=bipesh369&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent&title_color=60A5FA&icon_color=60A5FA&text_color=DBEAFE&bg_color=0F2A44"
+    alt="Bipesh Junior's GitHub Statistics"
+    width="49%"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=bipesh369&hide_border=true&background=0F2A44&ring=60A5FA&fire=38BDF8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=BFDBFE&sideLabels=BFDBFE&dates=93C5FD"
+    alt="Bipesh Junior's GitHub Contribution Streak"
+    width="49%"
+  />
+</p>
 
-- Building reusable React components
-- Creating clean, responsive, and user-friendly interfaces
-- Developing mobile-first layouts
-- Working with JavaScript, TypeScript, and Tailwind CSS
-- Integrating REST APIs into frontend applications
-
-### Full-Stack Development
-
-- Building APIs with Node.js and Express.js
-- Working with MongoDB and Mongoose
-- Implementing JWT authentication
-- Connecting frontend and backend applications
-- Building MERN stack projects
-
-### Development Workflow
-
-- Git and GitHub
-- Vite-based development
-- Debugging and problem solving
-- Responsive testing
-- Writing clean and maintainable code
-
----
-
-GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bipesh369&show_icons=true&theme=radical&hide_border=true" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bipesh369&layout=compact&theme=radical&hide_border=true" height="165" /> </p>
-
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=bipesh369&bg_color=0F2A44&color=DBEAFE&line=60A5FA&point=FFFFFF&area=true&area_color=1D4ED8&hide_border=true"
+    alt="Bipesh Junior's GitHub Activity Graph"
+    width="98%"
+  />
+</p>
 
 ---
 
 ## Currently Focused On
 
-- Building better React applications
-- Strengthening JavaScript and TypeScript fundamentals
-- Improving component design and frontend architecture
-- Building practical MERN applications
-- Writing clean and maintainable code
-- Improving responsive UI and user experience
-- Learning through real-world projects
-- Preparing for frontend development opportunities
+* Building production-quality React applications
+* Strengthening JavaScript and TypeScript fundamentals
+* Improving frontend architecture, responsive UI, and accessibility
 
 ---
 
@@ -187,16 +164,12 @@ GitHub Stats
 
 I'm currently open to:
 
-- **Frontend Developer Internships**
-- **React Developer Internships**
-- **Junior Frontend Developer Roles**
-- **Junior React Developer Roles**
-- **MERN / Full-Stack Internships**
-- **Open-Source Projects**
+* **Frontend Developer Internships**
+* **React / Junior Frontend Developer Roles**
+* **MERN / Full-Stack Internships**
+* **Open-source opportunities**
 
-I'm looking for opportunities where I can **work on real products, learn from experienced developers, contribute to a team, and grow through hands-on experience**.
-
-If you think we'd be a good fit, **feel free to reach out.**
+I'm looking for opportunities where I can contribute to real products, collaborate with experienced developers, and continue growing through hands-on engineering.
 
 <p align="center">
   <a href="mailto:juniorbipesh@gmail.com">
@@ -204,9 +177,6 @@ If you think we'd be a good fit, **feel free to reach out.**
   </a>
   <a href="https://www.linkedin.com/in/bipeshjunior10">
     <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
-  </a>
-  <a href="https://github.com/bipesh369">
-    <img src="https://img.shields.io/badge/GitHub-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
 </p>
 
