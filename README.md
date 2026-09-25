@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  I build responsive, user-focused web applications with React and modern JavaScript.
-  I'm especially interested in civic-tech and building software that makes everyday services easier to access and understand.
+  I build clean, responsive, and practical web applications with React and modern JavaScript.
+  I also enjoy working across the stack and building useful products with the MERN stack.
 </p>
 
 <p align="center">
@@ -29,39 +29,45 @@
 
 ## 👨‍💻 About Me
 
-I'm a frontend developer focused on building **clean, responsive, and practical web experiences** with React and modern JavaScript.
+I'm a frontend developer focused on building **clean, responsive, and practical web experiences**.
 
-I also work across the stack with the **MERN stack**, building applications that connect a thoughtful frontend with reliable APIs and data.
+My primary focus is **React and modern JavaScript**, while also developing full-stack applications with the **MERN stack**. I enjoy turning ideas into functional products and improving my skills through hands-on projects.
 
 ```text
 Frontend    → React, JavaScript, TypeScript, HTML5, CSS3
 Styling     → Tailwind CSS, Responsive Design
-Backend     → Node.js, Express.js
+Backend     → Node.js, Express.js, REST APIs
 Database    → MongoDB, Mongoose
-Tools       → Git, GitHub, Vite, REST APIs
+Tools       → Git, GitHub, Vite
 ```
 
-I'm currently looking for **frontend internships and junior React roles** where I can contribute to real products, learn from experienced developers, and continue growing through hands-on work.
+I'm currently looking for **frontend internships and junior React opportunities** where I can contribute to real products, work with experienced developers, and continue growing through hands-on engineering.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏛️ SewaPath — Government Service Navigator for Nepal
+### 🏛️ SewaPath
 
-SewaPath is a full-stack application built around a simple problem: **finding the right government service shouldn't be unnecessarily difficult.**
+**Citizen-focused government service navigator for Nepal**
 
-The platform helps users discover government services by category and location, making it easier to understand where to go and what services are available.
+SewaPath is a full-stack web application designed to make government services **easier to discover and navigate**.
 
-**Built with:** `React.js` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `Tailwind CSS` `Leaflet`
+It brings service information, categories, authentication, and location-based features together in one responsive platform.
+
+**Built with:**
+
+`React.js` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `Tailwind CSS` `Leaflet`
 
 **Highlights**
 
-* [x] Government service categories with interactive Leaflet-based location features
-* [x] JWT-based authentication for user accounts and saved services
-* [x] REST API backed by MongoDB and Mongoose
-* [x] Responsive, mobile-first React frontend
-* [x] Full-stack MERN architecture
+* Responsive, mobile-first React frontend
+* REST API architecture with Node.js and Express.js
+* MongoDB data management with Mongoose
+* JWT-based authentication
+* Government service discovery by category
+* Interactive location-based features with Leaflet
+* Full-stack MERN architecture
 
 <p>
   <a href="https://sewapath-frontend.vercel.app/">
@@ -74,21 +80,27 @@ The platform helps users discover government services by category and location, 
 
 ---
 
-### 🤖 Agency.Ai — Digital Agency Landing Page
+### 🤖 Agency.Ai
 
-Agency.Ai is a modern frontend project built around **clean layouts, responsive design, and interactive motion**.
+**Modern AI-focused digital agency interface**
 
-The project focuses on creating a polished landing-page experience while exploring reusable React components, Tailwind CSS, and animation with Framer Motion.
+Agency.Ai is a polished frontend project focused on **responsive layouts, reusable React components, modern UI patterns, and interactive motion**.
 
-**Built with:** `React` `Tailwind CSS` `Framer Motion`
+The project explores how thoughtful animations and component-based architecture can create a more engaging web experience while keeping the interface responsive.
+
+**Built with:**
+
+`React` `Tailwind CSS` `Framer Motion`
 
 **Highlights**
 
-* [x] Component-based React architecture with reusable sections
-* [x] Interactive animations and transitions with Framer Motion
-* [x] Scroll-based UI reveals and motion effects
-* [x] Responsive layouts across mobile, tablet, and desktop
-* [x] Modern landing-page design and interaction patterns
+* Component-based React architecture
+* Reusable UI sections and components
+* Responsive layouts across screen sizes
+* Tailwind CSS styling
+* Smooth animations with Framer Motion
+* Interactive UI transitions
+* Modern landing-page experience
 
 <p>
   <a href="https://agency-ai-five-coral.vercel.app/">
@@ -101,17 +113,54 @@ The project focuses on creating a polished landing-page experience while explori
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 
-**Frontend:** React, Next.js, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS, Vite
+### Frontend
 
-**Backend & Data:** Node.js, Express.js, MongoDB, Mongoose, REST APIs, JWT
+`React` `JavaScript` `TypeScript` `HTML5` `CSS3` `Tailwind CSS` `Responsive Design`
 
-**Tools:** Git, GitHub, VS Code
+### Backend & Database
+
+`Node.js` `Express.js` `REST APIs` `MongoDB` `Mongoose` `JWT`
+
+### Tools
+
+`Git` `GitHub` `Vite` `VS Code`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,nodejs,express,mongodb,git,github,vscode" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,nodejs,express,mongodb,git,github,vscode" alt="Tech stack icons" />
 </p>
+
+---
+
+## 💡 What I Bring
+
+### 🎨 Frontend Development
+
+* Building reusable React components
+* Creating clean and responsive web interfaces
+* Developing mobile-first layouts
+* Working with modern CSS and Tailwind CSS
+* Integrating REST APIs into frontend applications
+* Applying JavaScript and TypeScript fundamentals
+
+### 🔗 Full-Stack Development
+
+* Building and integrating REST APIs
+* Node.js and Express.js
+* MongoDB and Mongoose
+* JWT-based authentication
+* Frontend-backend integration
+* MERN stack application development
+
+### 🧰 Development Workflow
+
+* Git and GitHub
+* Vite-based development
+* API integration
+* Debugging and problem solving
+* Responsive testing
+* Clean and maintainable project structure
 
 ---
 
@@ -135,22 +184,31 @@ The project focuses on creating a polished landing-page experience while explori
 
 ## 🎯 Currently Focused On
 
-* Building better React applications
-* Strengthening JavaScript and TypeScript fundamentals
-* Improving frontend architecture and UI development
+* Building stronger React applications
+* Improving JavaScript and TypeScript skills
+* Strengthening frontend architecture and component design
 * Building and improving MERN applications
 * Writing cleaner and more maintainable code
+* Improving responsive UI and user experience
 * Learning through real-world projects and hands-on development
+* Preparing for frontend internships and junior developer opportunities
 
 ---
 
 ## 🤝 Open to Opportunities
 
-I'm currently looking for **Frontend / React Developer internships**, **Junior Frontend roles**, and **MERN internships**.
+I'm currently open to:
 
-I'm especially interested in opportunities where I can work on real products, learn from experienced developers, and contribute as part of a collaborative team.
+* **Frontend Developer Internships**
+* **React Developer Internships**
+* **Junior Frontend Developer Roles**
+* **Junior React Developer Roles**
+* **MERN / Full-Stack Internships**
+* **Collaborative Open-Source Projects**
 
-I'm also open to **open-source collaborations** and interesting projects where I can learn and contribute.
+I'm especially interested in opportunities where I can **work on real products, learn from experienced developers, and contribute as part of a collaborative team**.
+
+If you're working on something interesting or looking for a junior developer who enjoys learning by building, **I'd be happy to connect.**
 
 <p align="center">
   <a href="mailto:juniorbipesh@gmail.com">
