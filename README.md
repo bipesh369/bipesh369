@@ -163,28 +163,9 @@ The project explores how thoughtful animations and component-based architecture 
 
 ---
 
-## GitHub Activity
+GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=bipesh369&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=2563EB&icon_color=2563EB&text_color=475569&bg_color=F8FAFC"
-    alt="Bipesh Junior's GitHub Statistics"
-    width="49%"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=bipesh369&hide_border=true&background=F8FAFC&ring=2563EB&fire=3B82F6&currStreakNum=1D4ED8&sideNums=1D4ED8&currStreakLabel=2563EB&sideLabels=475569&dates=64748B"
-    alt="Bipesh Junior's GitHub Contribution Streak"
-    width="49%"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=bipesh369&bg_color=F8FAFC&color=2563EB&line=2563EB&point=1D4ED8&area=true&hide_border=true"
-    alt="Bipesh Junior's GitHub Activity Graph"
-    width="98%"
-  />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bipesh369&show_icons=true&theme=radical&hide_border=true" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bipesh369&layout=compact&theme=radical&hide_border=true" height="165" /> </p>
 
 
 ---
