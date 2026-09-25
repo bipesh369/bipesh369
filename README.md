@@ -1,255 +1,221 @@
-<div align="center">
+<p align="center">
+  <img src="./banner.svg" alt="Bipesh Junior Tharu — Frontend Developer" width="100%" />
+</p>
 
-<img src="./banner.svg" alt="Bipesh Junior Tharu - Frontend Developer" width="100%" />
+<h1 align="center">Hi, I'm Bipesh Junior 👋</h1>
 
-<br />
+<p align="center">
+  <strong>Frontend Developer | React | JavaScript | TypeScript | MERN</strong>
+</p>
 
-# Hi, I'm Bipesh Junior 👋
+<p align="center">
+  I build responsive, user-focused web applications with React and modern JavaScript,
+  with hands-on experience building full-stack applications using Node.js, Express.js, and MongoDB.
+</p>
 
-### Frontend Developer · React · JavaScript · MERN
-
-I build **responsive, user-focused web applications** with clean interfaces, reusable components, and practical full-stack functionality.
-
-I'm currently focused on building real-world products with **React, JavaScript, Node.js, Express, and MongoDB**.
-
-<br />
-
-<a href="https://github.com/bipesh369">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/bipeshjunior10">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:juniorbipesh@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br />
-<br />
-
-<img src="https://komarev.com/ghpvc/?username=bipesh369&style=flat-square&color=blue" alt="Profile views" />
-
-</div>
+<p align="center">
+  <a href="https://github.com/bipesh369">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/bipeshjunior10">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:juniorbipesh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Frontend Developer** who enjoys turning ideas into responsive, accessible, and functional web experiences.
+I'm a frontend developer focused on building clean, responsive, and practical web experiences.
 
-My primary focus is **React development**, but I also work across the MERN stack and understand how frontend applications connect with REST APIs, authentication, databases, and backend services.
+My primary focus is **React and modern JavaScript**, while also developing full-stack applications with the **MERN stack**.
 
 ```text
-Frontend       React · JavaScript · TypeScript · HTML · CSS
-Styling        Tailwind CSS · Responsive Design
-Backend        Node.js · Express.js
-Database       MongoDB · Mongoose
-Tools          Git · GitHub · Vite · REST APIs
+Frontend    → React, JavaScript, TypeScript, HTML5, CSS3
+Styling     → Tailwind CSS, Responsive Design
+Backend     → Node.js, Express.js
+Database    → MongoDB, Mongoose
+Tools       → Git, GitHub, Vite, REST APIs
 ```
 
-### Currently focused on
-
-* Building production-style React applications
-* Improving frontend architecture and reusable components
-* Working with REST APIs and authentication
-* Learning deeper backend and database concepts
-* Creating projects that solve practical problems
+I'm currently looking for **frontend internships and junior React opportunities** where I can contribute to real products, improve my engineering skills, and grow with an experienced development team.
 
 ---
 
-# 🛠 Tech Stack
+## 🚀 Featured Projects
+
+### 🏛️ SewaPath
+
+**Citizen-focused government service navigator for Nepal**
+
+A full-stack web application designed to help citizens discover and navigate government services more easily.
+
+**Built with:**
+
+`React.js` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `Tailwind CSS` `Leaflet`
+
+**Highlights**
+
+* Responsive React frontend
+* REST API architecture
+* MongoDB data management
+* JWT-based authentication
+* Government service discovery
+* Interactive location-based features
+* Full-stack MERN architecture
+
+<p>
+  <a href="https://sewapath-frontend.vercel.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-Visit_Project-111827?style=for-the-badge" alt="SewaPath Live Demo" />
+  </a>
+  <a href="https://github.com/bipesh369/SewaPath">
+    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="SewaPath Source Code" />
+  </a>
+</p>
+
+---
+
+### 🤖 Agency.Ai
+
+**Modern AI-focused digital agency interface**
+
+A polished frontend project focused on responsive layouts, modern UI patterns, and interactive user experiences.
+
+**Built with:**
+
+`React` `Tailwind CSS` `Framer Motion`
+
+**Highlights**
+
+* Responsive modern interface
+* Component-based React architecture
+* Tailwind CSS styling
+* Smooth UI animations
+* Mobile-friendly layouts
+* Modern landing-page experience
+
+<p>
+  <a href="https://agency-ai-five-coral.vercel.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-Visit_Project-111827?style=for-the-badge" alt="Agency.Ai Live Demo" />
+  </a>
+  <a href="https://github.com/bipesh369/agency.ai">
+    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Agency.Ai Source Code" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Technical Skills
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" alt="Frontend technologies" />
 </p>
 
 ### Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend and database technologies" />
 </p>
 
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vite,git,github,vscode,npm" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development tools" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
-
-## 🏛️ SewaPath
-
-**Citizen-focused government service navigator for Nepal**
-
-SewaPath is designed to make government services easier to discover and understand by providing service information, eligibility guidance, required documents, and step-by-step navigation.
-
-### Built with
-
-`React` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `Tailwind CSS` `Leaflet`
-
-### Highlights
-
-* Government service discovery
-* Service categories
-* Eligibility information
-* Document requirements
-* Step-by-step service guidance
-* Authentication
-* REST API architecture
-* MongoDB data management
-* Interactive location features
-
-<p>
-  <a href="https://sewapath-frontend.vercel.app/">
-    <img src="https://img.shields.io/badge/Live_Demo-Visit_Project-2563EB?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/bipesh369/SewaPath">
-    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
-## 🤖 Agency.Ai
-
-**Modern AI-powered digital agency platform**
-
-Agency.Ai is a modern agency-style web experience focused on presenting digital services through a polished, responsive interface with interactive animations.
-
-### Built with
-
-`React` `Tailwind CSS` `Framer Motion`
-
-### Highlights
-
-* Responsive modern UI
-* Component-driven architecture
-* Interactive animations
-* Modern landing-page design
-* Responsive navigation
-* Clean visual hierarchy
-
-<p>
-  <a href="https://agency-ai-five-coral.vercel.app/">
-    <img src="https://img.shields.io/badge/Live_Demo-Visit_Project-2563EB?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/bipesh369/agency.ai">
-    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
-# 💡 What I Bring
+## 💡 What I Bring
 
 ### 🎨 Frontend Development
 
-I build responsive interfaces with React, modern CSS, and component-based architecture.
+* React component development
+* Responsive web interfaces
+* Reusable UI components
+* Modern CSS and Tailwind CSS
+* Mobile-first development
+* JavaScript and TypeScript fundamentals
 
-### 🧩 Reusable Components
+### 🔗 Full-Stack Development
 
-I prefer modular UI systems that are easier to maintain, extend, and reuse.
+* REST API integration
+* Node.js and Express.js
+* MongoDB and Mongoose
+* Authentication with JWT
+* Frontend-backend integration
 
-### 🔌 API Integration
+### 🧰 Development Workflow
 
-Comfortable connecting React applications with REST APIs and handling asynchronous data.
-
-### ⚙️ MERN Development
-
-I understand the complete flow from:
-
-`React → REST API → Express → Node.js → MongoDB`
-
-### 📱 Responsive Design
-
-I build interfaces that adapt across:
-
-`Mobile → Tablet → Desktop`
-
-### 🧠 Problem Solving
-
-I enjoy taking a practical problem, breaking it into smaller pieces, and turning it into a usable product.
+* Git and GitHub
+* Vite-based development
+* API integration
+* Debugging and problem solving
+* Clean and maintainable project structure
 
 ---
 
-# 📊 GitHub Activity
+## 📈 GitHub Activity
 
-<div align="center">
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=bipesh369&show_icons=true&hide_border=true&rank_icon=github"
+    alt="Bipesh's GitHub Stats"
+  />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=bipesh369&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="170" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bipesh369&layout=compact&hide_border=true&theme=transparent" height="170" />
-
-</div>
-
-<br />
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=bipesh369&hide_border=true&theme=transparent" />
-
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=bipesh369&hide_border=true"
+    alt="Bipesh's GitHub Streak"
+  />
+</p>
 
 ---
 
-# 📈 Development Philosophy
+## 🎯 Currently Focused On
 
-```text
-Build → Break → Debug → Learn → Improve → Repeat
-```
-
-I believe the best way to improve as a developer is to continuously build, experiment, debug real problems, and learn from the process.
-
----
-
-# 🎯 Current Goals
-
-* Deepen my React and JavaScript skills
-* Build more production-quality MERN applications
-* Improve backend architecture and API design
-* Strengthen database and authentication knowledge
-* Contribute to open-source projects
-* Collaborate with developers and teams
-* Grow into a strong full-stack developer
+* Building production-quality React applications
+* Improving JavaScript and TypeScript skills
+* Strengthening frontend architecture and UI development
+* Building and improving MERN applications
+* Writing cleaner and more maintainable code
+* Preparing for frontend internship and junior developer opportunities
 
 ---
 
-# 📫 Let's Connect
+## 🤝 Open to Opportunities
 
-<div align="center">
+I'm currently open to:
 
-### Have an interesting project or opportunity?
+* **Frontend Developer Internships**
+* **React Developer Internships**
+* **Junior Frontend Developer Roles**
+* **Junior React Developer Roles**
+* **MERN / Full-Stack Internships**
+* **Collaborative Open-Source Projects**
 
-I'm open to **internships, junior frontend roles, freelance projects, and collaborative development.**
+If you're working on an interesting product or looking for a motivated junior developer, I'd be happy to connect.
 
-<br />
-
-<a href="https://github.com/bipesh369">
-  <img src="https://img.shields.io/badge/GitHub-bipesh369-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://www.linkedin.com/in/bipeshjunior10">
-  <img src="https://img.shields.io/badge/LinkedIn-Bipesh_Junior-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="mailto:juniorbipesh@gmail.com">
-  <img src="https://img.shields.io/badge/Email-juniorbipesh%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
+<p align="center">
+  <a href="mailto:juniorbipesh@gmail.com">
+    <img src="https://img.shields.io/badge/Let's_Connect-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Bipesh" />
+  </a>
+  <a href="https://www.linkedin.com/in/bipeshjunior10">
+    <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
+  <i>"Build. Learn. Improve. Repeat."</i>
+</p>
 
-### "Always building. Always learning."
-
-<br />
-
-**© Bipesh Junior Tharu**
-
-</div>
+<p align="center">
+  <sub>© Bipesh Junior Tharu</sub>
+</p>
