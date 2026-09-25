@@ -5,11 +5,11 @@
 <h1 align="center">Hi, I'm Bipesh Junior</h1>
 
 <p align="center">
-  <strong>Frontend Developer | React | JavaScript | TypeScript | MERN</strong>
+  <strong>Frontend Developer | React | JavaScript | MERN</strong>
 </p>
 
 <p align="center">
-  I build clean, responsive, and practical web applications with React and modern JavaScript.
+   I build clean, responsive, and practical web applications with React and modern JavaScript.
   I also enjoy working across the stack and building useful products with the MERN stack.
 </p>
 
@@ -139,30 +139,27 @@ The project explores how thoughtful animations and component-based architecture 
 
 ### Frontend Development
 
-* Building reusable React components
-* Creating clean and responsive web interfaces
-* Developing mobile-first layouts
-* Working with modern CSS and Tailwind CSS
-* Integrating REST APIs into frontend applications
-* Applying JavaScript and TypeScript fundamentals
+- Building reusable React components
+- Creating clean, responsive, and user-friendly interfaces
+- Developing mobile-first layouts
+- Working with JavaScript, TypeScript, and Tailwind CSS
+- Integrating REST APIs into frontend applications
 
 ### Full-Stack Development
 
-* Building and integrating REST APIs
-* Node.js and Express.js
-* MongoDB and Mongoose
-* JWT-based authentication
-* Frontend-backend integration
-* MERN stack application development
+- Building APIs with Node.js and Express.js
+- Working with MongoDB and Mongoose
+- Implementing JWT authentication
+- Connecting frontend and backend applications
+- Building MERN stack projects
 
 ### Development Workflow
 
-* Git and GitHub
-* Vite-based development
-* API integration
-* Debugging and problem solving
-* Responsive testing
-* Clean and maintainable project structure
+- Git and GitHub
+- Vite-based development
+- Debugging and problem solving
+- Responsive testing
+- Writing clean and maintainable code
 
 ---
 
@@ -170,30 +167,38 @@ The project explores how thoughtful animations and component-based architecture 
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=bipesh369&show_icons=true&hide_border=true&rank_icon=github&title_color=2563EB&icon_color=2563EB&text_color=374151&bg_color=FFFFFF"
-    alt="Bipesh's GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=bipesh369&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=2563EB&icon_color=2563EB&text_color=475569&bg_color=F8FAFC"
+    alt="Bipesh Junior's GitHub Statistics"
+    width="49%"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=bipesh369&hide_border=true&background=F8FAFC&ring=2563EB&fire=3B82F6&currStreakNum=1D4ED8&sideNums=1D4ED8&currStreakLabel=2563EB&sideLabels=475569&dates=64748B"
+    alt="Bipesh Junior's GitHub Contribution Streak"
+    width="49%"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=bipesh369&hide_border=true&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&sideLabels=2563EB&dates=64748B&background=FFFFFF"
-    alt="Bipesh's GitHub Streak"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=bipesh369&bg_color=F8FAFC&color=2563EB&line=2563EB&point=1D4ED8&area=true&hide_border=true"
+    alt="Bipesh Junior's GitHub Activity Graph"
+    width="98%"
   />
 </p>
+
 
 ---
 
 ## Currently Focused On
 
-* Building stronger React applications
-* Improving JavaScript and TypeScript skills
-* Strengthening frontend architecture and component design
-* Building and improving MERN applications
-* Writing cleaner and more maintainable code
-* Improving responsive UI and user experience
-* Learning through real-world projects and hands-on development
-* Preparing for frontend internships and junior developer opportunities
+- Building better React applications
+- Strengthening JavaScript and TypeScript fundamentals
+- Improving component design and frontend architecture
+- Building practical MERN applications
+- Writing clean and maintainable code
+- Improving responsive UI and user experience
+- Learning through real-world projects
+- Preparing for frontend development opportunities
 
 ---
 
@@ -201,16 +206,16 @@ The project explores how thoughtful animations and component-based architecture 
 
 I'm currently open to:
 
-* **Frontend Developer Internships**
-* **React Developer Internships**
-* **Junior Frontend Developer Roles**
-* **Junior React Developer Roles**
-* **MERN / Full-Stack Internships**
-* **Collaborative Open-Source Projects**
+- **Frontend Developer Internships**
+- **React Developer Internships**
+- **Junior Frontend Developer Roles**
+- **Junior React Developer Roles**
+- **MERN / Full-Stack Internships**
+- **Open-Source Projects**
 
-I'm especially interested in opportunities where I can **work on real products, learn from experienced developers, and contribute as part of a collaborative team**.
+I'm looking for opportunities where I can **work on real products, learn from experienced developers, contribute to a team, and grow through hands-on experience**.
 
-If you're working on something interesting or looking for a junior developer who enjoys learning by building, **I'd be happy to connect.**
+If you think we'd be a good fit, **feel free to reach out.**
 
 <p align="center">
   <a href="mailto:juniorbipesh@gmail.com">
