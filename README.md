@@ -2,7 +2,7 @@
   <img src="./banner.svg" alt="Bipesh Junior Tharu — Frontend Developer" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Bipesh Junior 👋</h1>
+<h1 align="center">Hi, I'm Bipesh Junior</h1>
 
 <p align="center">
   <strong>Frontend Developer | React | JavaScript | TypeScript | MERN</strong>
@@ -27,27 +27,19 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a frontend developer focused on building **clean, responsive, and practical web experiences**.
 
 My primary focus is **React and modern JavaScript**, while also developing full-stack applications with the **MERN stack**. I enjoy turning ideas into functional products and improving my skills through hands-on projects.
 
-```text
-Frontend    → React, JavaScript, TypeScript, HTML5, CSS3
-Styling     → Tailwind CSS, Responsive Design
-Backend     → Node.js, Express.js, REST APIs
-Database    → MongoDB, Mongoose
-Tools       → Git, GitHub, Vite
-```
-
 I'm currently looking for **frontend internships and junior React opportunities** where I can contribute to real products, work with experienced developers, and continue growing through hands-on engineering.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🏛️ SewaPath
+### SewaPath
 
 **Citizen-focused government service navigator for Nepal**
 
@@ -55,9 +47,11 @@ SewaPath is a full-stack web application designed to make government services **
 
 It brings service information, categories, authentication, and location-based features together in one responsive platform.
 
-**Built with:**
+**Built with**
 
-`React.js` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `Tailwind CSS` `Leaflet`
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind" height="40" alt="SewaPath technology stack" />
+</p>
 
 **Highlights**
 
@@ -65,13 +59,13 @@ It brings service information, categories, authentication, and location-based fe
 * REST API architecture with Node.js and Express.js
 * MongoDB data management with Mongoose
 * JWT-based authentication
-* Government service discovery by category
+* Government service discovery
 * Interactive location-based features with Leaflet
 * Full-stack MERN architecture
 
 <p>
   <a href="https://sewapath-frontend.vercel.app/">
-    <img src="https://img.shields.io/badge/Live_Demo-Visit_Project-111827?style=for-the-badge" alt="SewaPath Live Demo" />
+    <img src="https://img.shields.io/badge/Live_Demo-Visit_Project-2563EB?style=for-the-badge" alt="SewaPath Live Demo" />
   </a>
   <a href="https://github.com/bipesh369/SewaPath">
     <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="SewaPath Source Code" />
@@ -80,7 +74,7 @@ It brings service information, categories, authentication, and location-based fe
 
 ---
 
-### 🤖 Agency.Ai
+### Agency.Ai
 
 **Modern AI-focused digital agency interface**
 
@@ -88,9 +82,15 @@ Agency.Ai is a polished frontend project focused on **responsive layouts, reusab
 
 The project explores how thoughtful animations and component-based architecture can create a more engaging web experience while keeping the interface responsive.
 
-**Built with:**
+**Built with**
 
-`React` `Tailwind CSS` `Framer Motion`
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind" height="40" alt="Agency.Ai technology stack" />
+</p>
+
+<p>
+  <strong>Animation:</strong> Framer Motion
+</p>
 
 **Highlights**
 
@@ -104,7 +104,7 @@ The project explores how thoughtful animations and component-based architecture 
 
 <p>
   <a href="https://agency-ai-five-coral.vercel.app/">
-    <img src="https://img.shields.io/badge/Live_Demo-Visit_Project-111827?style=for-the-badge" alt="Agency.Ai Live Demo" />
+    <img src="https://img.shields.io/badge/Live_Demo-Visit_Project-2563EB?style=for-the-badge" alt="Agency.Ai Live Demo" />
   </a>
   <a href="https://github.com/bipesh369/agency.ai">
     <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Agency.Ai Source Code" />
@@ -113,29 +113,17 @@ The project explores how thoughtful animations and component-based architecture 
 
 ---
 
-## 🛠️ Technical Skills
-
-### Frontend
-
-`React` `JavaScript` `TypeScript` `HTML5` `CSS3` `Tailwind CSS` `Responsive Design`
-
-### Backend & Database
-
-`Node.js` `Express.js` `REST APIs` `MongoDB` `Mongoose` `JWT`
-
-### Tools
-
-`Git` `GitHub` `Vite` `VS Code`
+## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,nodejs,express,mongodb,git,github,vscode" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,nodejs,express,mongodb,git,github,vscode" alt="Technology stack" />
 </p>
 
 ---
 
-## 💡 What I Bring
+## What I Bring
 
-### 🎨 Frontend Development
+### Frontend Development
 
 * Building reusable React components
 * Creating clean and responsive web interfaces
@@ -144,7 +132,7 @@ The project explores how thoughtful animations and component-based architecture 
 * Integrating REST APIs into frontend applications
 * Applying JavaScript and TypeScript fundamentals
 
-### 🔗 Full-Stack Development
+### Full-Stack Development
 
 * Building and integrating REST APIs
 * Node.js and Express.js
@@ -153,7 +141,7 @@ The project explores how thoughtful animations and component-based architecture 
 * Frontend-backend integration
 * MERN stack application development
 
-### 🧰 Development Workflow
+### Development Workflow
 
 * Git and GitHub
 * Vite-based development
@@ -164,25 +152,25 @@ The project explores how thoughtful animations and component-based architecture 
 
 ---
 
-## 📈 GitHub Activity
+## GitHub Activity
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=bipesh369&show_icons=true&hide_border=true&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=bipesh369&show_icons=true&hide_border=true&rank_icon=github&theme=blueberry"
     alt="Bipesh's GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=bipesh369&hide_border=true"
+    src="https://streak-stats.demolab.com?user=bipesh369&hide_border=true&theme=blueberry"
     alt="Bipesh's GitHub Streak"
   />
 </p>
 
 ---
 
-## 🎯 Currently Focused On
+## Currently Focused On
 
 * Building stronger React applications
 * Improving JavaScript and TypeScript skills
@@ -195,7 +183,7 @@ The project explores how thoughtful animations and component-based architecture 
 
 ---
 
-## 🤝 Open to Opportunities
+## Open to Opportunities
 
 I'm currently open to:
 
@@ -212,10 +200,10 @@ If you're working on something interesting or looking for a junior developer who
 
 <p align="center">
   <a href="mailto:juniorbipesh@gmail.com">
-    <img src="https://img.shields.io/badge/Let's_Connect-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Bipesh" />
+    <img src="https://img.shields.io/badge/Let's_Connect-Email_Me-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Bipesh" />
   </a>
   <a href="https://www.linkedin.com/in/bipeshjunior10">
-    <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+    <img src="https://img.shields.io/badge/Connect_on-LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
 </p>
 
