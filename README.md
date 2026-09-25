@@ -10,7 +10,7 @@
 
 <p align="center">
   I build responsive, user-focused web applications with React and modern JavaScript.
-  Lately I've been drawn to civic-tech — using code to make public services easier to navigate.
+  I'm especially interested in civic-tech and building software that makes everyday services easier to access and understand.
 </p>
 
 <p align="center">
@@ -29,7 +29,9 @@
 
 ## 👨‍💻 About Me
 
-I'm a frontend developer focused on building clean, practical web experiences with **React and modern JavaScript**, and I extend into full-stack work with the **MERN stack** when a project needs it.
+I'm a frontend developer focused on building **clean, responsive, and practical web experiences** with React and modern JavaScript.
+
+I also work across the stack with the **MERN stack**, building applications that connect a thoughtful frontend with reliable APIs and data.
 
 ```text
 Frontend    → React, JavaScript, TypeScript, HTML5, CSS3
@@ -39,7 +41,7 @@ Database    → MongoDB, Mongoose
 Tools       → Git, GitHub, Vite, REST APIs
 ```
 
-I'm currently looking for **frontend internships and junior React roles** where I can contribute to real products and grow alongside an experienced team.
+I'm currently looking for **frontend internships and junior React roles** where I can contribute to real products, learn from experienced developers, and continue growing through hands-on work.
 
 ---
 
@@ -47,15 +49,19 @@ I'm currently looking for **frontend internships and junior React roles** where 
 
 ### 🏛️ SewaPath — Government Service Navigator for Nepal
 
-Many Nepali citizens don't know which office handles which service, or where to find it. SewaPath is a full-stack app that lets people search and locate government services by category and location, cutting down the guesswork of navigating bureaucracy in person.
+SewaPath is a full-stack application built around a simple problem: **finding the right government service shouldn't be unnecessarily difficult.**
+
+The platform helps users discover government services by category and location, making it easier to understand where to go and what services are available.
 
 **Built with:** `React.js` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `Tailwind CSS` `Leaflet`
 
 **Highlights**
-* [X] government service categories mapped with interactive Leaflet search
-* JWT-based auth for user accounts and saved services
-* REST API backed by MongoDB/Mongoose for service data
-* Fully responsive React frontend, mobile-first
+
+* [x] Government service categories with interactive Leaflet-based location features
+* [x] JWT-based authentication for user accounts and saved services
+* [x] REST API backed by MongoDB and Mongoose
+* [x] Responsive, mobile-first React frontend
+* [x] Full-stack MERN architecture
 
 <p>
   <a href="https://sewapath-frontend.vercel.app/">
@@ -70,14 +76,19 @@ Many Nepali citizens don't know which office handles which service, or where to 
 
 ### 🤖 Agency.Ai — Digital Agency Landing Page
 
-A polished, animation-heavy landing page built to practice modern UI patterns and interactive motion design in React.
+Agency.Ai is a modern frontend project built around **clean layouts, responsive design, and interactive motion**.
+
+The project focuses on creating a polished landing-page experience while exploring reusable React components, Tailwind CSS, and animation with Framer Motion.
 
 **Built with:** `React` `Tailwind CSS` `Framer Motion`
 
 **Highlights**
-* Component-based architecture with reusable animated sections
-* Framer Motion transitions tuned for smooth scroll-triggered reveals
-* Fully responsive across mobile, tablet, and desktop breakpoints
+
+* [x] Component-based React architecture with reusable sections
+* [x] Interactive animations and transitions with Framer Motion
+* [x] Scroll-based UI reveals and motion effects
+* [x] Responsive layouts across mobile, tablet, and desktop
+* [x] Modern landing-page design and interaction patterns
 
 <p>
   <a href="https://agency-ai-five-coral.vercel.app/">
@@ -93,10 +104,12 @@ A polished, animation-heavy landing page built to practice modern UI patterns an
 ## 🛠️ Skills
 
 **Frontend:** React, Next.js, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS, Vite
+
 **Backend & Data:** Node.js, Express.js, MongoDB, Mongoose, REST APIs, JWT
+
 **Tools:** Git, GitHub, VS Code
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,nodejs,express,mongodb,git,github,vscode" alt="Tech stack icons" />
 </p>
 
@@ -120,9 +133,24 @@ A polished, animation-heavy landing page built to practice modern UI patterns an
 
 ---
 
+## 🎯 Currently Focused On
+
+* Building better React applications
+* Strengthening JavaScript and TypeScript fundamentals
+* Improving frontend architecture and UI development
+* Building and improving MERN applications
+* Writing cleaner and more maintainable code
+* Learning through real-world projects and hands-on development
+
+---
+
 ## 🤝 Open to Opportunities
 
-Currently looking for **Frontend / React Developer internships**, **Junior Frontend roles**, and **MERN internships** — especially on products with real users. Also open to collaborating on open-source projects.
+I'm currently looking for **Frontend / React Developer internships**, **Junior Frontend roles**, and **MERN internships**.
+
+I'm especially interested in opportunities where I can work on real products, learn from experienced developers, and contribute as part of a collaborative team.
+
+I'm also open to **open-source collaborations** and interesting projects where I can learn and contribute.
 
 <p align="center">
   <a href="mailto:juniorbipesh@gmail.com">
@@ -136,7 +164,7 @@ Currently looking for **Frontend / React Developer internships**, **Junior Front
 ---
 
 <p align="center">
-  <i>"Build. Learn. Improve. Repeat."</i>
+  <i>Build. Learn. Improve. Repeat.</i>
 </p>
 
 <p align="center">
