@@ -33,6 +33,14 @@ I'm a frontend developer focused on building **clean, responsive, and practical 
 
 My primary focus is **React and modern JavaScript**, while also developing full-stack applications with the **MERN stack**. I enjoy turning ideas into functional products and improving my skills through hands-on projects.
 
+```text
+Frontend    → React, JavaScript, TypeScript, HTML5, CSS3
+Styling     → Tailwind CSS, Responsive Design
+Backend     → Node.js, Express.js, REST APIs
+Database    → MongoDB, Mongoose
+Tools       → Git, GitHub, Vite
+```
+
 I'm currently looking for **frontend internships and junior React opportunities** where I can contribute to real products, work with experienced developers, and continue growing through hands-on engineering.
 
 ---
@@ -47,11 +55,9 @@ SewaPath is a full-stack web application designed to make government services **
 
 It brings service information, categories, authentication, and location-based features together in one responsive platform.
 
-**Built with**
+**Built with:**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind" height="40" alt="SewaPath technology stack" />
-</p>
+`React.js` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `Tailwind CSS` `Leaflet`
 
 **Highlights**
 
@@ -59,7 +65,7 @@ It brings service information, categories, authentication, and location-based fe
 * REST API architecture with Node.js and Express.js
 * MongoDB data management with Mongoose
 * JWT-based authentication
-* Government service discovery
+* Government service discovery by category
 * Interactive location-based features with Leaflet
 * Full-stack MERN architecture
 
@@ -82,15 +88,9 @@ Agency.Ai is a polished frontend project focused on **responsive layouts, reusab
 
 The project explores how thoughtful animations and component-based architecture can create a more engaging web experience while keeping the interface responsive.
 
-**Built with**
+**Built with:**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind" height="40" alt="Agency.Ai technology stack" />
-</p>
-
-<p>
-  <strong>Animation:</strong> Framer Motion
-</p>
+`React` `Tailwind CSS` `Framer Motion`
 
 **Highlights**
 
@@ -113,10 +113,24 @@ The project explores how thoughtful animations and component-based architecture 
 
 ---
 
-## Tech Stack
+## Technical Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,nodejs,express,mongodb,git,github,vscode" alt="Technology stack" />
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind" height="45" alt="Frontend technologies" />
+</p>
+
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="45" alt="Backend and database technologies" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vite,vscode" height="45" alt="Development tools" />
 </p>
 
 ---
@@ -156,14 +170,14 @@ The project explores how thoughtful animations and component-based architecture 
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=bipesh369&show_icons=true&hide_border=true&rank_icon=github&theme=blueberry"
+    src="https://github-readme-stats.vercel.app/api?username=bipesh369&show_icons=true&hide_border=true&rank_icon=github&title_color=2563EB&icon_color=2563EB&text_color=374151&bg_color=FFFFFF"
     alt="Bipesh's GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=bipesh369&hide_border=true&theme=blueberry"
+    src="https://streak-stats.demolab.com?user=bipesh369&hide_border=true&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&sideLabels=2563EB&dates=64748B&background=FFFFFF"
     alt="Bipesh's GitHub Streak"
   />
 </p>
@@ -200,18 +214,17 @@ If you're working on something interesting or looking for a junior developer who
 
 <p align="center">
   <a href="mailto:juniorbipesh@gmail.com">
-    <img src="https://img.shields.io/badge/Let's_Connect-Email_Me-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Bipesh" />
+    <img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Bipesh" />
   </a>
   <a href="https://www.linkedin.com/in/bipeshjunior10">
-    <img src="https://img.shields.io/badge/Connect_on-LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+    <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  </a>
+  <a href="https://github.com/bipesh369">
+    <img src="https://img.shields.io/badge/GitHub-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
 </p>
 
 ---
-
-<p align="center">
-  <i>Build. Learn. Improve. Repeat.</i>
-</p>
 
 <p align="center">
   <sub>© Bipesh Junior Tharu</sub>
