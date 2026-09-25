@@ -1,414 +1,221 @@
-# SewaPath 🇳🇵
+<p align="center">
+  <img src="./banner.svg" alt="Bipesh Junior Tharu — Frontend Developer" width="100%" />
+</p>
 
-### Citizen-First Government Service Navigator
-
-SewaPath is a full-stack web application designed to make government services in Nepal easier to discover and understand.
-
-The platform helps citizens find relevant government services, explore service information, and navigate toward the resources they need through a clean, responsive interface.
+<h1 align="center">Hi, I'm Bipesh Junior 👋</h1>
 
 <p align="center">
-  <a href="https://sewapath-frontend.vercel.app/">
-    <img src="https://img.shields.io/badge/Live_Demo-Visit_SewaPath-111827?style=for-the-badge" alt="SewaPath Live Demo" />
+  <strong>Frontend Developer | React | JavaScript | TypeScript | MERN</strong>
+</p>
+
+<p align="center">
+  I build responsive, user-focused web applications with React and modern JavaScript,
+  with hands-on experience building full-stack applications using Node.js, Express.js, and MongoDB.
+</p>
+
+<p align="center">
+  <a href="https://github.com/bipesh369">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://github.com/bipesh369/SewaPath">
-    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="SewaPath GitHub Repository" />
+  <a href="https://www.linkedin.com/in/bipeshjunior10">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:juniorbipesh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
-## 📌 Why SewaPath?
+## 👨‍💻 About Me
 
-Finding the right government service can be difficult when information is spread across different websites, offices, and resources.
+I'm a frontend developer focused on building clean, responsive, and practical web experiences.
 
-SewaPath aims to provide a centralized and user-friendly experience where citizens can:
-
-* Discover government services
-* Browse services by category
-* View service-related information
-* Find relevant locations
-* Access service details through a responsive interface
-* Navigate government information more easily
-
-The project focuses on solving a practical problem while demonstrating modern frontend and full-stack development skills.
-
----
-
-## ✨ Key Features
-
-### 🔎 Service Discovery
-
-Browse and explore government services through organized categories and service information.
-
-### 🗂️ Service Categories
-
-Services are organized into categories to make discovering relevant information easier.
-
-### 🗺️ Location-Based Information
-
-Interactive maps help users understand where relevant services or locations are available.
-
-### 🔐 Authentication
-
-The application uses JWT-based authentication for protected functionality.
-
-### 📱 Responsive Interface
-
-The frontend is designed to work across desktop, tablet, and mobile screen sizes.
-
-### 🔗 REST API
-
-The React frontend communicates with a Node.js and Express.js backend through REST APIs.
-
-### 🗄️ Persistent Data
-
-MongoDB and Mongoose are used to store and manage application data.
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-
-| Technology   | Purpose                                |
-| ------------ | -------------------------------------- |
-| React.js     | User interface                         |
-| JavaScript   | Application logic                      |
-| Tailwind CSS | Styling and responsive UI              |
-| Vite         | Frontend development and build tooling |
-| Leaflet      | Interactive maps                       |
-
-### Backend
-
-| Technology        | Purpose                 |
-| ----------------- | ----------------------- |
-| Node.js           | Server-side runtime     |
-| Express.js        | REST API                |
-| Mongoose          | MongoDB object modeling |
-| JWT               | Authentication          |
-| bcryptjs          | Password hashing        |
-| express-validator | Request validation      |
-| Morgan            | HTTP request logging    |
-
-### Database
-
-**MongoDB**
-
-Used for storing users, services, categories, and other application data.
-
-### Development Tools
-
-* Git
-* GitHub
-* npm
-* Vite
-* Postman / REST API testing tools
-
----
-
-## 🏗️ Architecture
-
-SewaPath follows a traditional MERN full-stack architecture:
+My primary focus is **React and modern JavaScript**, while also developing full-stack applications with the **MERN stack**.
 
 ```text
-┌──────────────────────────────┐
-│          React.js            │
-│       Frontend / UI          │
-└──────────────┬───────────────┘
-               │
-               │ REST API
-               ▼
-┌──────────────────────────────┐
-│       Node.js + Express      │
-│       Backend / API          │
-└──────────────┬───────────────┘
-               │
-               │ Mongoose
-               ▼
-┌──────────────────────────────┐
-│           MongoDB            │
-│        Persistent Data       │
-└──────────────────────────────┘
+Frontend    → React, JavaScript, TypeScript, HTML5, CSS3
+Styling     → Tailwind CSS, Responsive Design
+Backend     → Node.js, Express.js
+Database    → MongoDB, Mongoose
+Tools       → Git, GitHub, Vite, REST APIs
 ```
 
-The frontend is responsible for the user experience and application interface, while the backend handles API requests, authentication, validation, and database communication.
+I'm currently looking for **frontend internships and junior React opportunities** where I can contribute to real products, improve my engineering skills, and grow with an experienced development team.
 
 ---
 
-## 📂 Project Structure
+## 🚀 Featured Projects
 
-```text
-SewaPath/
-│
-├── frontend/
-│   ├── src/
-│   ├── public/
-│   ├── package.json
-│   └── ...
-│
-├── backend/
-│   ├── controllers/
-│   ├── models/
-│   ├── routes/
-│   ├── middleware/
-│   ├── seed/
-│   ├── server.js
-│   └── package.json
-│
-└── README.md
-```
+### 🏛️ SewaPath
 
-> The exact folder structure may evolve as the project continues to be developed.
+**Citizen-focused government service navigator for Nepal**
 
----
+A full-stack web application designed to help citizens discover and navigate government services more easily.
 
-## 🚀 Getting Started
+**Built with:**
 
-### Prerequisites
+`React.js` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `Tailwind CSS` `Leaflet`
 
-Make sure you have the following installed:
+**Highlights**
 
-* Node.js
-* npm
-* MongoDB or a MongoDB connection string
-* Git
-
----
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/bipesh369/SewaPath.git
-
-cd SewaPath
-```
-
----
-
-### 2. Setup the frontend
-
-```bash
-cd frontend
-npm install
-```
-
-Create a `.env` file if the frontend requires environment variables:
-
-```env
-VITE_API_URL=your_backend_api_url
-```
-
-Start the development server:
-
-```bash
-npm run dev
-```
-
-The frontend will normally be available at:
-
-```text
-http://localhost:5173
-```
-
----
-
-### 3. Setup the backend
-
-Open another terminal:
-
-```bash
-cd backend
-npm install
-```
-
-Create a `.env` file:
-
-```env
-PORT=5000
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret
-```
-
-Start the backend:
-
-```bash
-npm run dev
-```
-
-For production:
-
-```bash
-npm start
-```
-
----
-
-## 🔐 Environment Variables
-
-Never commit your `.env` file or secret credentials to GitHub.
-
-Example:
-
-```env
-PORT=5000
-MONGO_URI=mongodb://localhost:27017/sewapath
-JWT_SECRET=your_secure_secret
-```
-
-Use environment-specific values when deploying the application.
-
----
-
-## 🧪 Development & Testing
-
-The backend includes scripts for development, seeding, and testing.
-
-```bash
-npm run dev
-```
-
-```bash
-npm run seed
-```
-
-```bash
-npm test
-```
-
-The project uses Jest for backend testing.
-
----
-
-## 🎯 What I Learned Building SewaPath
-
-SewaPath was built as a practical full-stack project and helped me strengthen several areas of development:
-
-### Frontend
-
-* Building reusable React components
-* Managing application state
-* Creating responsive interfaces
-* Integrating REST APIs
-* Working with interactive maps
-* Building user-focused navigation flows
-
-### Backend
-
-* Designing REST APIs with Express
-* Structuring Node.js applications
-* Working with MongoDB and Mongoose
-* Implementing authentication
-* Validating API requests
-* Handling backend errors and middleware
-
-### Full-Stack
-
-* Connecting React applications with REST APIs
-* Managing frontend and backend development separately
-* Working with environment variables
-* Designing data models
-* Debugging client-server communication
-* Using Git throughout development
-
----
-
-## 🧠 Engineering Focus
-
-While building SewaPath, the main focus has been:
-
-```text
-User Experience
-      ↓
-Reusable React Components
-      ↓
-REST API Integration
-      ↓
-Backend Validation & Authentication
-      ↓
-MongoDB Data Management
-```
-
-The project is continuously being improved as I learn more about frontend architecture, backend development, security, and production-ready application design.
-
----
-
-## 📸 Screenshots
-
-Add 3–5 screenshots here showing the most important parts of the application.
-
-Recommended screenshots:
-
-1. Home page
-2. Service discovery/category page
-3. Service details
-4. Map/location interface
-5. Authentication or dashboard
-
-Example:
-
-```md
-## 📸 Screenshots
-
-### Home
-
-![SewaPath Home](./screenshots/home.png)
-
-### Service Discovery
-
-![Service Discovery](./screenshots/services.png)
-
-### Service Details
-
-![Service Details](./screenshots/service-details.png)
-```
-
----
-
-## 🌐 Live Demo
-
-**Frontend:**
-https://sewapath-frontend.vercel.app/
-
-**Source Code:**
-https://github.com/bipesh369/SewaPath
-
----
-
-## 🔮 Future Improvements
-
-Planned improvements may include:
-
-* Improved service search and filtering
-* More comprehensive government service information
-* Enhanced accessibility
-* Better location-based discovery
-* Improved user dashboards
-* Additional administrative functionality
-* More comprehensive automated testing
-* Production-focused performance improvements
-
----
-
-## 👨‍💻 Developer
-
-**Bipesh Junior Tharu**
-
-Frontend Developer focused on React, JavaScript, TypeScript, and modern web development, with hands-on experience building MERN applications.
+* Responsive React frontend
+* REST API architecture
+* MongoDB data management
+* JWT-based authentication
+* Government service discovery
+* Interactive location-based features
+* Full-stack MERN architecture
 
 <p>
-  <a href="https://github.com/bipesh369">GitHub</a> •
-  <a href="https://www.linkedin.com/in/bipeshjunior10">LinkedIn</a> •
-  <a href="mailto:juniorbipesh@gmail.com">Email</a>
+  <a href="https://sewapath-frontend.vercel.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-Visit_Project-111827?style=for-the-badge" alt="SewaPath Live Demo" />
+  </a>
+  <a href="https://github.com/bipesh369/SewaPath">
+    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="SewaPath Source Code" />
+  </a>
 </p>
 
 ---
 
-## 📄 License
+### 🤖 Agency.Ai
 
-This project is currently developed as a portfolio and learning project.
+**Modern AI-focused digital agency interface**
+
+A polished frontend project focused on responsive layouts, modern UI patterns, and interactive user experiences.
+
+**Built with:**
+
+`React` `Tailwind CSS` `Framer Motion`
+
+**Highlights**
+
+* Responsive modern interface
+* Component-based React architecture
+* Tailwind CSS styling
+* Smooth UI animations
+* Mobile-friendly layouts
+* Modern landing-page experience
+
+<p>
+  <a href="https://agency-ai-five-coral.vercel.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-Visit_Project-111827?style=for-the-badge" alt="Agency.Ai Live Demo" />
+  </a>
+  <a href="https://github.com/bipesh369/agency.ai">
+    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Agency.Ai Source Code" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Technical Skills
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" alt="Frontend technologies" />
+</p>
+
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend and database technologies" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development tools" />
+</p>
+
+---
+
+## 💡 What I Bring
+
+### 🎨 Frontend Development
+
+* React component development
+* Responsive web interfaces
+* Reusable UI components
+* Modern CSS and Tailwind CSS
+* Mobile-first development
+* JavaScript and TypeScript fundamentals
+
+### 🔗 Full-Stack Development
+
+* REST API integration
+* Node.js and Express.js
+* MongoDB and Mongoose
+* Authentication with JWT
+* Frontend-backend integration
+
+### 🧰 Development Workflow
+
+* Git and GitHub
+* Vite-based development
+* API integration
+* Debugging and problem solving
+* Clean and maintainable project structure
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=bipesh369&show_icons=true&hide_border=true&rank_icon=github"
+    alt="Bipesh's GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=bipesh369&hide_border=true"
+    alt="Bipesh's GitHub Streak"
+  />
+</p>
+
+---
+
+## 🎯 Currently Focused On
+
+* Building production-quality React applications
+* Improving JavaScript and TypeScript skills
+* Strengthening frontend architecture and UI development
+* Building and improving MERN applications
+* Writing cleaner and more maintainable code
+* Preparing for frontend internship and junior developer opportunities
+
+---
+
+## 🤝 Open to Opportunities
+
+I'm currently open to:
+
+* **Frontend Developer Internships**
+* **React Developer Internships**
+* **Junior Frontend Developer Roles**
+* **Junior React Developer Roles**
+* **MERN / Full-Stack Internships**
+* **Collaborative Open-Source Projects**
+
+If you're working on an interesting product or looking for a motivated junior developer, I'd be happy to connect.
+
+<p align="center">
+  <a href="mailto:juniorbipesh@gmail.com">
+    <img src="https://img.shields.io/badge/Let's_Connect-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Bipesh" />
+  </a>
+  <a href="https://www.linkedin.com/in/bipeshjunior10">
+    <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <strong>Built with React, Node.js, Express.js, and MongoDB 🇳🇵</strong>
+  <i>"Build. Learn. Improve. Repeat."</i>
+</p>
+
+<p align="center">
+  <sub>© Bipesh Junior Tharu</sub>
 </p>
